@@ -1,4 +1,4 @@
-#                               ➼ A passionate developer from Romania 🇷🇴👨‍💻
+#                               ➼ A passionate developer from Romania 👨‍💻🇷🇴
 ### • Hello, I’m Vali, I’m 20 years old and I love to <ins>write code</ins> and learn new things. 💫
 • I like to work in team because life is a way too big to do all on your own. 👥👥 
 
