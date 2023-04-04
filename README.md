@@ -22,5 +22,5 @@
   <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="aftereffects" width="40" height="40"/> </a>
 </p>
 
-### ✍️ Random Dev Quote
+# ➼ Random Dev Quote ✍️:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
