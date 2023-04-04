@@ -3,4 +3,4 @@
 • I like to work in team because life is a way too big to do all on your own. 👥 
 
 • If you want to make the world a good place, just do it, and if is not the CASE just
-SWITCH the CASE. 🔥🔥
+SWITCH the CASE. 😁🔥🔥
