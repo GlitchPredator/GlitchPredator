@@ -1,11 +1,11 @@
-#                               ⚪ A passionate developer from Romania 👨‍💻
+#                               ➼ A passionate developer from Romania 👨‍💻
 ### • Hello, I’m Vali, I’m 20 years old and I love to write code and learn new things. 💫
 • I like to work in team because life is a way too big to do all on your own. 👥👥 
 
 • If you want to make the world a good place, just do it, and if is not the <b>CASE</b> just
 <b>SWITCH</b> the <b>CASE</b>. 😁🔥🔥
 
-# Tech Stack 💻:
+# ➼ Tech Stack 💻:
 <p align="left"> 
   <!--C-->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
