@@ -1,4 +1,5 @@
-<style type="text/css">
+<html>
+   <style type="text/css">
 .generated-text {
    font-family:Helvetica, sans-serif;
    font-size:20px;
@@ -13,3 +14,4 @@
 </style>
 <!-- HTML Code -->
 <h6 class="generated-text">a PASSIONATE DEVELOPER from ROMANIA</h6>
+</html>
