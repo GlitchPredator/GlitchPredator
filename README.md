@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Vali, nice to meet you! 👋
 
 <!--
 **GSV472002/GSV472002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
