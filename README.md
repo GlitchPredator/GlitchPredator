@@ -7,7 +7,7 @@
 
 ![](https://visitcount.itsvg.in/api?id=GSV472002&icon=0&color=0)
 # ➼ Tech Stack 💻
-<b style="color: #E5E4E4;">Backend:</b>
+<span style="color: #E5E4E4;"><b>Backend:</b></span>
 <p align="left">
   <!--C#-->
   <a href="https://dotnet.microsoft.com/en-us/learn/csharp" target="_blank" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" alt="c-sharp" width="70" height="80"/> </a>
@@ -23,7 +23,7 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbit-mq" width="75" height="80"/> </a>
 
 </p>
-<b style="color:red;">Devops tools:</b><br><br>
+<span style="color:red;"><b>Devops tools:</b></span><br><br>
 <p align="left">
   <!--TEAMCITY-->
   <a href="https://www.jetbrains.com/teamcity/download/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/teamcity-icon.svg" alt="teamcity" width="70" height="80"/> </a>
@@ -38,7 +38,7 @@
   <!--BASH-->
   <a href="https://www.geeksforgeeks.org/bash-scripting-introduction-to-bash-and-bash-scripting/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" alt="amazonwebservices" width="70" height="80"/> </a>
 </p>
-<b style="color:yellow;">Multimedia:</b><br><br>
+<span style="color:yellow;"><b>Multimedia:</b></span><br><br>
 <p align="left">
   <!--PHOTOSHOP-->
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="photoshop" width="75" height="80"/> </a>
