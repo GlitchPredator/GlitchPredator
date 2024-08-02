@@ -23,7 +23,7 @@
   <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" alt="rabbit-mq" width="75" height="80"/> </a>
 
 </p>
-<span style="color:red;"><b>Devops tools:</b></span><br><br>
+<span style="color:red;"><b>DevOps tools:</b></span><br><br>
 <p align="left">
   <!--TEAMCITY-->
   <a href="https://www.jetbrains.com/teamcity/download/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/teamcity-icon.svg" alt="teamcity" width="70" height="80"/> </a>
