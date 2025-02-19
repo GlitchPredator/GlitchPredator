@@ -71,9 +71,6 @@
 
 ###
 
-<div align="left">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=GlitchPredator&theme=dark&short_numbers=true)](https://git.io/streak-stats)
-  <img src="https://streak-stats.demolab.com?user=GlitchPredator&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=GlitchPredator&theme=dark&short_numbers=true)](https://git.io/streak-stats)
 
 ###
