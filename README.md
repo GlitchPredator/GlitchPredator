@@ -21,7 +21,7 @@
 
 <p align="left">I'm <b>Vali</b> (23 years old) and I love to write code & learn new things. 💫 
     <br>
-    <br> - 🔭 I’m working as <b>Associate Software Enginner</b> on the backend side
+    <br> - 🔭 I’m working as <b>Software Enginner</b> on the backend side
     <br>- 📚 I'm currently learning <b>React</b> for better understanding of frontend
     <br> - ⚡ In my free time I am into <b>Game Development</b>
 </p>
