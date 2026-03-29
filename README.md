@@ -39,7 +39,7 @@
     <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" height="40" alt="git-logo">
     <br/>
     <img width="15" />
-    <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png" height="40" alt="csharp-logo">
+    <img src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-1822x2048-wuf3ijab.png](https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" height="40" alt="csharp-logo">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg" style="margin-left:10px;" height="35" alt="rabbitmq-logo">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="linux-logo"/>
     <img width="12" />
